@@ -1,0 +1,57 @@
+Received: 
+OFF 	ON
+62432 usec, 100 usec
+54340 usec, 100 usec
+27140 usec, 120 usec
+27100 usec, 140 usec
+4988 usec, 120 usec
+54340 usec, 120 usec
+54340 usec, 180 usec
+27060 usec, 160 usec
+27080 usec, 140 usec
+27080 usec, 120 usec
+27100 usec, 140 usec
+54320 usec, 100 usec
+54320 usec, 200 usec
+54240 usec, 180 usec
+16004 usec, 120 usec
+13912 usec, 8940 usec
+4340 usec, 620 usec
+1540 usec, 620 usec
+1560 usec, 600 usec
+460 usec, 600 usec
+480 usec, 600 usec
+1580 usec, 560 usec
+1580 usec, 580 usec 5
+480 usec, 600 usec
+480 usec, 580 usec
+500 usec, 580 usec
+500 usec, 560 usec
+520 usec, 580 usec
+480 usec, 600 usec
+480 usec, 600 usec
+460 usec, 600 usec
+480 usec, 580 usec
+480 usec, 600 usec
+480 usec, 580 usec
+480 usec, 600 usec
+480 usec, 580 usec
+480 usec, 600 usec
+480 usec, 580 usec
+520 usec, 580 usec
+480 usec, 560 usec
+500 usec, 600 usec
+1560 usec, 600 usec
+1560 usec, 600 usec
+1580 usec, 580 usec
+1580 usec, 600 usec
+1580 usec, 560 usec
+1580 usec, 600 usec 5
+1580 usec, 600 usec
+1560 usec, 600 usec
+43820 usec, 8760 usec
+2200 usec, 540 usec
+32884 usec, 8800 usec
+2180 usec, 540 usec
+32904 usec, 8780 usec
+2200 usec, 540 usec

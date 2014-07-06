@@ -1,0 +1,23 @@
+Ready to decode IR!
+
+
+Received: 
+OFF 	ON
+3284 usec, 380 usec
+5880 usec, 520 usec
+25124 usec, 700 usec
+300 usec, 240 usec
+21944 usec, 340 usec
+33628 usec, 180 usec
+63404 usec, 140 usec
+11600 usec, 120 usec
+41644 usec, 460 usec
+3860 usec, 460 usec
+32412 usec, 260 usec
+21100 usec, 120 usec
+1440 usec, 400 usec
+5120 usec, 260 usec
+27080 usec, 160 usec
+1480 usec, 400 usec
+19220 usec, 160 usec
+28856 usec, 480 usec
